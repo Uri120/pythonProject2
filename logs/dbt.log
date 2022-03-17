@@ -6,3 +6,21 @@
 23:07:24.657800 [debug] [MainThread]: Tracking: tracking
 23:07:24.678797 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE96D4D60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE96D50C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE96D4E80>]}
 23:07:24.707800 [debug] [MainThread]: Starter project path: D:\pythonProject2\venv\lib\site-packages\dbt\include\starter_project
+23:44:34.098507 [info ] [MainThread]: Profile dbt_demo written to C:\Users\uri_1\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+23:44:34.099505 [info ] [MainThread]: 
+Your new dbt project "dbt_demo" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+23:44:34.100505 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE9772D10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE97730A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE97735B0>]}

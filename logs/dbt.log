@@ -1,0 +1,8 @@
+
+
+============================== 2022-03-17 23:07:24.655795 | 622b0197-a835-46ae-bfcf-23bfee89c5bf ==============================
+23:07:24.655795 [info ] [MainThread]: Running with dbt=1.0.3
+23:07:24.656796 [debug] [MainThread]: running dbt with arguments Namespace(record_timing_info=None, debug=None, log_format=None, write_json=None, use_colors=None, printer_width=None, warn_error=None, version_check=None, partial_parse=None, single_threaded=False, use_experimental_parser=None, static_parser=None, profiles_dir='C:\\Users\\uri_1\\.dbt', send_anonymous_usage_stats=None, fail_fast=None, event_buffer_size=None, project_dir=None, profile=None, target=None, vars='{}', log_cache_events=False, project_name='dbt_demo', skip_profile_setup=False, defer=None, state=None, cls=<class 'dbt.task.init.InitTask'>, which='init', rpc_method=None)
+23:07:24.657800 [debug] [MainThread]: Tracking: tracking
+23:07:24.678797 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE96D4D60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE96D50C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021AE96D4E80>]}
+23:07:24.707800 [debug] [MainThread]: Starter project path: D:\pythonProject2\venv\lib\site-packages\dbt\include\starter_project
